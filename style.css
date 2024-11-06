@@ -33,3 +33,21 @@ input, button {
     margin-top: 8px; /* Adjust spacing between title and subtitle */
     text-align: center; /* Center-align the subtitle */
 }
+.coming-soon-box {
+    margin-top: 20px;
+    padding: 15px;
+    border: 2px dashed #999;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.coming-soon-box h2 {
+    color: #333;
+    font-size: 1.4em;
+}
+
+.coming-soon-box p {
+    color: #666;
+    font-size: 1em;
+}
