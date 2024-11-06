@@ -24,7 +24,7 @@ function showValue() {
 
     document.getElementById('result').innerText = `Chaldean number reflected is: ${total}`;
 }
-function reset() {
+/*function reset() {
     document.getElementById('container').value = '';
     document.getElementById('result').innerText = ' ';
-}
+}*/
