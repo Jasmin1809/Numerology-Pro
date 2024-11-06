@@ -9,8 +9,9 @@ body {
 
 .container {
     text-align: center;
-    max-width: 400px;
+    max-width: 600px;
     #have made max-width 1000px from 400px, then reverted change
+    #next change to 600px
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
