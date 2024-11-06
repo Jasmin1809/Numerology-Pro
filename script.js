@@ -26,5 +26,5 @@ function showValue() {
 }
 function reset() {
     document.getElementById('container').value = '';
-    document.getElementById('result').value = ' ';
+    document.getElementById('result').innerText = ' ';
 }
