@@ -26,3 +26,10 @@ input, button {
     font-size: 1.2em;
     font-weight: bold;
 }
+.subtitle {
+    font-size: 1.2em;
+    font-weight: normal;
+    color: #666;
+    margin-top: 8px; /* Adjust spacing between title and subtitle */
+    text-align: center; /* Center-align the subtitle */
+}
